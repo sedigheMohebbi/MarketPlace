@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/src/main/resources/db.script.database/create-database.sql" dialect="Exasol" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/db.script.tables/addres.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/db.script.tables/bill.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/db.script.tables/cart.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/db.script.tables/lineItem_cart.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/db.script.tables/lineItem_order.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/db.script.tables/order.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/db.script.tables/payment.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/db.script.tables/product.sql" dialect="OracleSqlPlus" />
+  </component>
+</project>
